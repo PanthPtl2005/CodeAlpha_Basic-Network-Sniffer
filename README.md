@@ -134,7 +134,7 @@ Packet sniffing requires **privileged access** on most systems.
 Run the script using:
 
 ```bash
-sudo python3 sniffer.py
+sudo python3 network_sniffer.py
 ```
 
 Without elevated privileges, packet capture may fail.
@@ -152,7 +152,7 @@ pip install scapy
 2. Run the program:
 
 ```bash
-sudo python3 sniffer.py
+sudo python3 network_sniffer.py
 ```
 
 3. Enter:
